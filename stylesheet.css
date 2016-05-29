@@ -1,0 +1,29 @@
+body {
+	 Width: 100%
+	 min-width: 900px;
+	 max-width: 1050pxpx;
+	 font-family: Verdana, Times New Roman;
+	 font-weight: normal;
+	 font-size: 14px;
+	 margin: 0px auto;
+	 border: 1px solid black;
+}
+
+#DataStorage{
+	Width: 100%;
+	background-image: url(images/background.jpg)	
+}
+
+nav.horizontalNAV{
+	border: 1px solid;
+	text-align: Center;
+	background-color: rgb(220,200,180)
+}
+
+.date{
+	float: right;
+	
+}
+
+
+
